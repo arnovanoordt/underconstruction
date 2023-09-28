@@ -1,3 +1,5 @@
+A fork of larsjanssen6/underconstruction to make it compatible with Laravel 10
+
 # Laravel Under Construction <img width="45" alt="schermafbeelding 2017-09-27 om 23 08 12" src="https://user-images.githubusercontent.com/7254997/30937972-c9632d04-a3d8-11e7-87f3-c44ce2b86d24.png">
 
 [![StyleCI](https://styleci.io/repos/104500164/shield)](https://styleci.io/repos/104500164)
